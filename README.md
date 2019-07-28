@@ -1,4 +1,4 @@
-v0.2.0-alpha.3
+v0.2.0-beta.1
 
 flow-test
 
